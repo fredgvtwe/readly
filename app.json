@@ -1,6 +1,6 @@
 {
-    "name": "V2Ray",
-    "description": "Deploy V2ray on Heroku.",
+    "name": "readly",
+    "description": "readly",
     "keywords": ["V2Ray"],
     "env": {
         "UUID": {
@@ -9,6 +9,6 @@
         }
     },
  
-    "repository": "https://github.com/louyour/dan-vmess",
+    "repository": "https://github.com/fredgvtwe/readly",
     "stack": "container"
 }
